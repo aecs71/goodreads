@@ -1,0 +1,31 @@
+.card{
+    max-width:10rem;
+    }
+    .card-title{
+        margin-bottom: 0.15rem;
+    }
+    .card-subtitle span {
+        font-size: 0.7rem;
+    }
+    .detail-container{
+        width:675px;
+        padding-top: 20px;
+    }
+    .author-container{
+        display: flex;
+    }
+    .coverImg{
+        max-width:150px;
+        display:block;
+        margin:0 auto 10px;
+        height:15rem;
+    }
+    .descp{
+        margin :10px;
+        position: absolute;
+    }
+    .nobook{
+        text-align: center;
+        margin-top: 10rem;
+        color:lightseagreen;
+    }
