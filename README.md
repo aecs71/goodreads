@@ -16,6 +16,7 @@ open up the browser and hit http://localhost:3000/ in the address bar
 ```
 npm run postbuild
 ```
+open up the browser and hit http://localhost:3000/ in the address bar
 ### Running tests
 ```
 npm run test
